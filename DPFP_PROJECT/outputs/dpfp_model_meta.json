@@ -1,5 +1,5 @@
 {
-  "threshold": 0.1163220089075838,
+  "threshold": 0.11628668447892793,
   "features": [
     "max_hourly_jump",
     "drift_psi_mean",
@@ -27,10 +27,10 @@
   "trained_on": "Delhi",
   "train_period": [
     "2022-08-05",
-    "2024-09-20"
+    "2024-09-21"
   ],
   "validation_period": [
-    "2024-09-21",
-    "2025-10-14"
+    "2024-09-22",
+    "2025-10-16"
   ]
 }

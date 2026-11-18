@@ -1,9 +1,9 @@
 Result,Value
-Next-day DQ failure — main model (test PR-AUC),0.229  vs random 0.111
-Main model ROC-AUC (test),0.695
+Next-day DQ failure — main model (test PR-AUC),0.228  vs random 0.113
+Main model ROC-AUC (test),0.696
 Selected algorithm / imbalance,RandomForest / none
-Recall at chosen threshold,0.58  (6.0 false alarms / month)
-DATA-only vs INFRA-only PR-AUC (N2),0.217 vs 0.116
-Best rule baseline PR-AUC,0.169
-Failures warned ≥1 / ≥2 days ahead (N4),58% / 40%
-Leaky vs honest PR-AUC (N5),1.000 vs 0.229
+Recall at chosen threshold,0.59  (5.7 false alarms / month)
+DATA-only vs INFRA-only PR-AUC (N2),0.219 vs 0.111
+Best rule baseline PR-AUC,0.167
+Failures warned ≥1 / ≥2 days ahead (N4),59% / 39%
+Leaky vs honest PR-AUC (N5),1.000 vs 0.228
